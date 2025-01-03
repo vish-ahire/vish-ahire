@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=vish-ahire&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
 <!--
 **vish-ahire/vish-ahire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
