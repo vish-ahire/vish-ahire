@@ -7,6 +7,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish-ahire&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
+
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
 <!--
 **vish-ahire/vish-ahire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
