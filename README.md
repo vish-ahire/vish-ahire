@@ -26,8 +26,23 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60" style="margin: 10px"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60" style="margin: 10px"/> </a> 
 </p>
+<h3 align="left">My Expertise:</h3>
 
-<p align="center" style="background-color: black; padding: 20px; border-radius: 10px; color: white;">
+- **Proficient in React.js Development:**  
+  Designed and implemented reusable, high-performance components for applications, ensuring seamless user experiences and adherence to best practices. Leveraged React Router for client-side navigation and optimized rendering using React.memo, useMemo, and useCallback.
+
+- **Strong Focus on Performance and Optimization:**  
+  Improved application load times by implementing code splitting, lazy loading, and state management techniques like Redux and Context API. Used profiling tools such as React Profiler and Lighthouse to identify and resolve performance bottlenecks.
+
+- **Expertise in API Integration:**  
+  Integrated RESTful APIs endpoints to create dynamic web pages and real-time dashboards, handling data fetching and error states with Axios.
+
+- **Collaborative Problem-Solving:**  
+  Partnered with designers, backend engineers, and stakeholders to deliver pixel-perfect, web applications that align with user needs and business objectives. Contributed actively to Agile workflows, participating in sprint planning, code reviews, and retrospectives.
+
+
+
+ <p align="center" style="background-color: black; padding: 20px; border-radius: 10px; color: white;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vish-ahire&show_icons=true&locale=en&layout=compact" alt="vish-ahire" />
 </p>
 
