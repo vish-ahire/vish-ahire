@@ -27,8 +27,14 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60" style="margin: 10px"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vish-ahire&show_icons=true&locale=en&layout=compact" alt="vish-ahire" /></p>
+<p align="center" style="background-color: black; padding: 20px; border-radius: 10px; color: white;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vish-ahire&show_icons=true&locale=en&layout=compact" alt="vish-ahire" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vish-ahire&show_icons=true&locale=en" alt="vish-ahire" /></p>
+<p align="center" style="background-color: black; padding: 20px; border-radius: 10px; color: white;">
+  <img src="https://github-readme-stats.vercel.app/api?username=vish-ahire&show_icons=true&locale=en" alt="vish-ahire" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vish-ahire&" alt="vish-ahire" /></p>
+<p align="center" style="background-color: black; padding: 20px; border-radius: 10px; color: white;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vish-ahire&" alt="vish-ahire" />
+</p>
