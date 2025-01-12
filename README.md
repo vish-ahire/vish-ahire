@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, Html, TailwindCSS**
 
-- 📫 How to reach me **[📧](pranavahire11234@gmail.com)**
+- 📫 How to reach me **[📧](mailto:pranavahire11234@gmail.com)**
 
 - 📄 Know about my experiences [🗒️](https://drive.google.com/file/d/1Wgl_Zpt6H0NL6gTYmv9HX2pW98GIukUq/view?usp=drive_link)
 
