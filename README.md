@@ -2,20 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left">
-  <img id="profile-views" src="https://komarev.com/ghpvc/?username=vish-ahire&label=Profile%20views&color=0e75b6&style=flat" alt="vish-ahire" />
+  <img src="https://profile-counter.glitch.me/vish-ahire/count.svg" alt="vish-ahire" />
 </p>
-
-<script>
-  // Check if the user has already visited
-  const profileViewKey = "profileViewed";
-  if (!localStorage.getItem(profileViewKey)) {
-    // Mark as visited to prevent incrementing on refresh
-    localStorage.setItem(profileViewKey, "true");
-    // Update the counter by appending a query string to trigger the view increment
-    const profileViewsElement = document.getElementById("profile-views");
-    profileViewsElement.src += "&update=true";
-  }
-</script>
 
 - 💍 Ask me about **React, HTML, TailwindCSS**
 - 📧 How to reach me: [📧](mailto:pranavahire11234@gmail.com)
