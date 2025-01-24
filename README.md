@@ -2,8 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left">
-  <img src="https://profile-counter.glitch.me/vish-ahire/count.svg" alt="vish-ahire" />
+  <img src="https://api.countapi.xyz/hit/vish-ahire-profile/unique-visitors" alt="Profile Views" />
 </p>
+
 
 - 💍 Ask me about **React, HTML, TailwindCSS**
 - 📧 How to reach me: [📧](mailto:pranavahire11234@gmail.com)
