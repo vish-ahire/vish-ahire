@@ -1,11 +1,25 @@
 <h1 align="center">Hi 👋, I'm Pranav Ahire</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vish-ahire&label=Profile%20views&color=0e75b6&style=flat" alt="vish-ahire" /> </p>
+<p align="left">
+  <img id="profile-views" src="https://komarev.com/ghpvc/?username=vish-ahire&label=Profile%20views&color=0e75b6&style=flat" alt="vish-ahire" />
+</p>
 
-- 💬 Ask me about **React, HTML, TailwindCSS**
-- 📫 How to reach me: [📧](mailto:pranavahire11234@gmail.com)
-- 📄 Know about my experiences: [🗒️](https://drive.google.com/file/d/1Wgl_Zpt6H0NL6gTYmv9HX2pW98GIukUq/view?usp=drive_link)
+<script>
+  // Check if the user has already visited
+  const profileViewKey = "profileViewed";
+  if (!localStorage.getItem(profileViewKey)) {
+    // Mark as visited to prevent incrementing on refresh
+    localStorage.setItem(profileViewKey, "true");
+    // Update the counter by appending a query string to trigger the view increment
+    const profileViewsElement = document.getElementById("profile-views");
+    profileViewsElement.src += "&update=true";
+  }
+</script>
+
+- 💍 Ask me about **React, HTML, TailwindCSS**
+- 📧 How to reach me: [📧](mailto:pranavahire11234@gmail.com)
+- 📒 Know about my experiences: [🗒️](https://drive.google.com/file/d/1Wgl_Zpt6H0NL6gTYmv9HX2pW98GIukUq/view?usp=drive_link)
 - ⚡ Fun fact: **I think I am serious.**
 
 <h3 align="left">Connect with me:</h3>
@@ -26,6 +40,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60" style="margin: 10px"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60" style="margin: 10px"/> </a> 
 </p>
+
 <h3 align="left">My Expertise:</h3>
 
 - **Proficient in React.js Development:**  
@@ -38,11 +53,9 @@
   Integrated RESTful APIs endpoints to create dynamic web pages and real-time dashboards, handling data fetching and error states with Axios.
 
 - **Collaborative Problem-Solving:**  
-  Partnered with designers, backend engineers, and stakeholders to deliver pixel-perfect, web applications that align with user needs and business objectives. Contributed actively to Agile workflows, participating in sprint planning, code reviews, and retrospectives.
+  Partnered with designers, backend engineers, and stakeholders to deliver pixel-perfect web applications that align with user needs and business objectives. Contributed actively to Agile workflows, participating in sprint planning, code reviews, and retrospectives.
 
-
-
- <p align="center" style="background-color: black; padding: 20px; border-radius: 10px; color: white;">
+<p align="center" style="background-color: black; padding: 20px; border-radius: 10px; color: white;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vish-ahire&show_icons=true&locale=en&layout=compact" alt="vish-ahire" />
 </p>
 
