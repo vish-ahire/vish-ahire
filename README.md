@@ -1,20 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pranav Ahire</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left">
-  <img src="https://api.countapi.xyz/hit/vish-ahire-profile/unique-visitors" alt="Profile Views" />
-</p>
-
-
 - 💍 Ask me about **React, HTML, TailwindCSS**
 - 📧 How to reach me: [📧](mailto:pranavahire11234@gmail.com)
 - 📒 Know about my experiences: [🗒️](https://drive.google.com/file/d/1Wgl_Zpt6H0NL6gTYmv9HX2pW98GIukUq/view?usp=drive_link)
 - ⚡ Fun fact: **I think I am serious.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add links here to your social profiles -->
-</p>
+
+  <!-- <h3 align="left">Connect with me:</h3> <p align="left"> </p>-->
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
