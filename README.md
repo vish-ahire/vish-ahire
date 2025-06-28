@@ -49,3 +49,6 @@
 <p align="center" style="background-color: black; padding: 20px; border-radius: 10px; color: white;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vish-ahire&" alt="vish-ahire" />
 </p>
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vish-ahire&show_icons=true)
+
