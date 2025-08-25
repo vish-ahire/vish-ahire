@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Ahire</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 💍 Ask me about **React, HTML, TailwindCSS**
+- 💍 Ask me about **React, HTML, TailwindCSS, React Native, Node JS**
 - 📧 How to reach me: [📧](mailto:pranavahire11234@gmail.com)
 - 📒 Know about my experiences: [🗒️](https://drive.google.com/file/d/1Wgl_Zpt6H0NL6gTYmv9HX2pW98GIukUq/view?usp=drive_link)
 - ⚡ Fun fact: **I think I am serious.**
